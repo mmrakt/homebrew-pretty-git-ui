@@ -1,8 +1,8 @@
 class PrettyGitUi < Formula
   desc "Terminal UI for git operations"
   homepage "https://github.com/mmrakt/pretty-git-ui"
-  url "https://github.com/mmrakt/pretty-git-ui/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "ea002bfd275fb23b1d6c5985fd6c607c5bbcf8ba94f71f6fd5667fb9f8814901"
+  url "https://github.com/mmrakt/pretty-git-ui/archive/refs/tags/v0.2.8.tar.gz"
+  sha256 "450e352be52c37b5afb468993804174b3d7f826585623f0c3812ab40381c5286"
   license "MIT"
 
   depends_on "rust" => :build
